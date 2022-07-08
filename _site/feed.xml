@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en_us"><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en_us" /><updated>2022-07-08T15:20:44+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Unblah</title><author><name>Alexis Rondeau</name></author><entry><title type="html">Powerful things you can do with the Markdown editor</title><link href="http://localhost:4000/powerful-things-markdown-editor/" rel="alternate" type="text/html" title="Powerful things you can do with the Markdown editor" /><published>2020-01-12T00:00:00+00:00</published><updated>2020-01-12T00:00:00+00:00</updated><id>http://localhost:4000/powerful-things-markdown-editor</id><content type="html" xml:base="http://localhost:4000/powerful-things-markdown-editor/"><![CDATA[<p>There are lots of powerful things you can do with the Markdown editor</p>
+
+<p>If you’ve gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!</p>
+
+<p>As with the last post about the editor, you’ll want to be actually editing this post as you read it so that you can see all the Markdown code we’re using.</p>
+
+<h2 id="special-formatting">Special formatting</h2>
+
+<p>As well as bold and italics, you can also use some other special formatting in Markdown when the need arises, for example:</p>
+
+<ul>
+  <li><del>strike through</del></li>
+  <li>==highlight==</li>
+  <li>*escaped characters*</li>
+</ul>
+
+<h2 id="writing-code-blocks">Writing code blocks</h2>
+
+<p>There are two types of code elements which can be inserted in Markdown, the first is inline, and the other is block. Inline code is formatted by wrapping any word or words in back-ticks, <code>like this</code>. Larger snippets of code can be displayed across multiple lines using triple back ticks:</p>
+
+<pre><code>.my-link {
+    text-decoration: underline;
+}
+</code></pre>
+
+<p>If you want to get really fancy, you can even add syntax highlighting using Rouge.</p>
+
+<p><img src="/assets/images/3.jpg" alt="walking" /></p>
+
+<h2 id="reference-lists">Reference lists</h2>
+
+<p>The quick brown jumped over the lazy.</p>
+
+<p>Another way to insert links in markdown is using reference lists. You might want to use this style of linking to cite reference material in a Wikipedia-style. All of the links are listed at the end of the document, so you can maintain full separation between content and its source or reference.</p>
+
+<h2 id="full-html">Full HTML</h2>
+
+<p>Perhaps the best part of Markdown is that you’re never limited to just Markdown. You can write HTML directly in the Markdown editor and it will just work as HTML usually does. No limits! Here’s a standard YouTube embed code as an example:</p>
+
+<p><iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen=""></iframe></p>]]></content><author><name>sal</name></author><category term="Jekyll" /><category term="tutorial" /><summary type="html"><![CDATA[There are lots of powerful things you can do with the Markdown editor]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/4.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/4.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Red Riding Hood</title><link href="http://localhost:4000/red-riding/" rel="alternate" type="text/html" title="Red Riding Hood" /><published>2020-01-12T00:00:00+00:00</published><updated>2020-01-12T00:00:00+00:00</updated><id>http://localhost:4000/red-riding</id><content type="html" xml:base="http://localhost:4000/red-riding/"><![CDATA[<p>The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter.</p>
+
+<p>An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll… originated with us”.</p>
+
+<blockquote>
+  <p>It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story.</p>
+</blockquote>
+
+<p>The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes.</p>
+
+<p>As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original — which sees Little Red Riding Hood being gobbled up as well as her grandmother — is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.</p>]]></content><author><name>sal</name></author><category term="Jekyll" /><category term="tutorial" /><summary type="html"><![CDATA[The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/3.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/3.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">We all wait for summer</title><link href="http://localhost:4000/we-all-wait-for-summer/" rel="alternate" type="text/html" title="We all wait for summer" /><published>2020-01-12T00:00:00+00:00</published><updated>2020-01-12T00:00:00+00:00</updated><id>http://localhost:4000/we-all-wait-for-summer</id><content type="html" xml:base="http://localhost:4000/we-all-wait-for-summer/"><![CDATA[<p>This is changed. As I engage in the so-called “bull sessions” around and about the school, I too often find that most college men have a misconception of the purpose of education. Most of the “brethren” think that <a href="#">education should equip</a> them with the proper instruments of exploitation so that they can forever trample over the masses. Still others think that education should furnish them with noble ends rather than means to an end.</p>
+
+<p>It seems to me that education has a two-fold function to perform in the life of man and in society: the one is utility and the other is culture. Education must enable a man to become more efficient, to achieve with increasing facility the ligitimate goals of his life.</p>]]></content><author><name>Alexis Rondeau</name></author><category term="Jekyll" /><category term="tutorial" /><summary type="html"><![CDATA[This is changed. As I engage in the so-called “bull sessions” around and about the school, I too often find that most college men have a misconception of the purpose of education. Most of the “brethren” think that education should equip them with the proper instruments of exploitation so that they can forever trample over the masses. Still others think that education should furnish them with noble ends rather than means to an end.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/1.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/1.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Markdown Example</title><link href="http://localhost:4000/markup-example/" rel="alternate" type="text/html" title="Markdown Example" /><published>2020-01-11T00:00:00+00:00</published><updated>2020-01-11T00:00:00+00:00</updated><id>http://localhost:4000/markup-example</id><content type="html" xml:base="http://localhost:4000/markup-example/"><![CDATA[<p>You’ll find this post in your <code>_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code>jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated. Something.</p>
+
+<p>To add new posts, simply add a file in the <code>_posts</code> directory that follows the convention <code>YYYY-MM-DD-name-of-post.ext</code> and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+
+<p>Jekyll also offers powerful support for code snippets:</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
+  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
+<span class="k">end</span>
+<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
+<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+
+<p>Check out the <a href="http://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name>john</name></author><category term="Jekyll" /><category term="tutorial" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated. Something.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/6.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/6.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Is Intelligence Enough</title><link href="http://localhost:4000/is-intelligence-enough/" rel="alternate" type="text/html" title="Is Intelligence Enough" /><published>2019-01-12T00:00:00+00:00</published><updated>2019-01-12T00:00:00+00:00</updated><id>http://localhost:4000/is-intelligence-enough</id><content type="html" xml:base="http://localhost:4000/is-intelligence-enough/"><![CDATA[<p>Education must also train one for quick, resolute and effective thinking. To think incisively and to think for one’s self is very difficult.</p>
+
+<blockquote>
+  <p>We are prone to let our mental life become invaded by legions of half truths, prejudices, and propaganda. At this point, I often wonder whether or not education is fulfilling its purpose. A great majority of the so-called educated people do not think logically and scientifically.</p>
+</blockquote>
+
+<p>Even the press, the classroom, the platform, and the pulpit in many instances do not give us objective and unbiased truths. To save man from the morass of propaganda, in my opinion, is one of the chief aims of education. Education must enable one to sift and weigh evidence, to discern the true from the false, the real from the unreal, and the facts from the fiction.</p>
+
+<p>The function of education, therefore, is to teach one to think intensively and to think critically. But education which stops with efficiency may prove the greatest menace to society. The most dangerous criminal may be the man gifted with reason, but with no morals.</p>
+
+<p>The late Eugene Talmadge, in my opinion, possessed one of the better minds of Georgia, or even America. Moreover, he wore the Phi Beta Kappa key. By all measuring rods, Mr. Talmadge could think critically and intensively; yet he contends that I am an inferior being. Are those the types of men we call educated?</p>
+
+<p>We must remember that intelligence is not enough. Intelligence plus character–that is the goal of true education. The complete education gives one not only power of concentration, but worthy objectives upon which to concentrate. The broad education will, therefore, transmit to one not only the accumulated knowledge of the race but also the accumulated experience of social living.</p>]]></content><author><name>sal</name></author><category term="Jekyll" /><category term="tutorial" /><summary type="html"><![CDATA[Education must also train one for quick, resolute and effective thinking. To think incisively and to think for one’s self is very difficult.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/5.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/5.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Tree of Codes</title><link href="http://localhost:4000/tree-of-codes/" rel="alternate" type="text/html" title="Tree of Codes" /><published>2018-01-12T00:00:00+00:00</published><updated>2018-01-12T00:00:00+00:00</updated><id>http://localhost:4000/tree-of-codes</id><content type="html" xml:base="http://localhost:4000/tree-of-codes/"><![CDATA[<p>The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter.</p>
+
+<p>As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original — which sees Little Red Riding Hood being gobbled up as well as her grandmother — is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.</p>
+
+<blockquote>
+  <p>It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story.</p>
+</blockquote>
+
+<p>An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll… originated with us”.</p>
+
+<p>The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes.</p>]]></content><author><name>sal</name></author><category term="Jekyll" /><category term="tutorial" /><summary type="html"><![CDATA[The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/2.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/2.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
