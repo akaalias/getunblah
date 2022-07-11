@@ -1,0 +1,67 @@
+I"�<p>Hey and welcome to getting you set up!</p>
+
+<p>Alexis here. Great to have you, let’s jump right in.</p>
+
+<h2 id="installation-1-minute">Installation (1 minute)</h2>
+<p>If anything, Unblah is just like any other macOS app that you download and install directly from a developer (like me) instead of the App Store.</p>
+
+<p>After you’ve <a href="https://github.com/akaalias/getunblah/releases/latest/download/Unblah.dmg">downloaded the app’s latest release (Unblah.dmg)</a> simply double-click the icon to open the volume.</p>
+
+<p><img src="https://raw.githubusercontent.com/akaalias/getunblah/main/assets/images/unblah-in-downloads.png" alt="" /></p>
+
+<p>Then, in the new window, click and drag Unblah.app into your Applications folder</p>
+
+<p><img src="https://raw.githubusercontent.com/akaalias/getunblah/main/assets/images/unblah-dmg-installer.png" alt="" /></p>
+
+<p>Finally, use Spotlight to locate the app and open it.</p>
+
+<p><img src="https://raw.githubusercontent.com/akaalias/getunblah/main/assets/images/unblah-spotlight.png" alt="" /></p>
+
+<p>If you prefer using Finder, navigate over to /Applications and locate the app there.</p>
+
+<p><img src="https://raw.githubusercontent.com/akaalias/getunblah/main/assets/images/unblah-finder.png" alt="" /></p>
+
+<p>Should you see an alert that looks similar to this you can safely click on Open to start the app.</p>
+
+<p><img src="https://raw.githubusercontent.com/akaalias/getunblah/main/assets/images/open-app-dialog.png" alt="" /></p>
+
+<p>You may have to enable <em>“Allow apps downloaded from App Store and identified developers”</em> if you haven’t already.</p>
+
+<p><img src="https://raw.githubusercontent.com/akaalias/getunblah/main/assets/images/allow-identified-developers.png" alt="" /></p>
+
+<p>On your first launch, you should see this screen</p>
+
+<p><img src="https://raw.githubusercontent.com/akaalias/getunblah/main/assets/images/home-screen.png" alt="" /></p>
+
+<p>Additionally, since it’s your first launch, you should also see the following permission request for Unblah to access your microphone. Please select “OK” here.</p>
+
+<p><img src="https://raw.githubusercontent.com/akaalias/getunblah/main/assets/images/allow-mic-access.png" alt="" /></p>
+
+<p><em>If you’re concerned about your privacy and the confidentiality of your calls:</em> Unblah DOES NOT RECORD, SAVE or UPLOAD your audio anywhere. All speech analysis happens live, locally and on the fly. This means, the app only operates real-time on the audio stream coming from your microphone to identify your speech. Every few milliseconds these audio-bytes are discarded.</p>
+
+<h2 id="setting-up-your-audio">Setting Up Your Audio</h2>
+<p>Here are a few steps you should know about in regards to the audio set up for your calls. None of the steps are really unique to Unblah, but I wanted to make sure you’ve got them covered.</p>
+
+<h3 id="using-headphones">Using Headphones</h3>
+<p>As of this release, you will need to have headphones plugged in or turned on before you can start a session (so that Unblah doesn’t trigger recording when others speak.)</p>
+
+<p>So, once you’ve turned on your headphones, click the “Check Headphones” button to verify you’re set.</p>
+
+<p><img src="https://raw.githubusercontent.com/akaalias/getunblah/main/assets/images/home-screen.png" alt="" /></p>
+
+<p>When your headphones are found, you can start a new session by tapping the Play button.</p>
+
+<p><img src="https://raw.githubusercontent.com/akaalias/getunblah/main/assets/images/start-new-session.png" alt="" /></p>
+
+<p>Yay! You should be able to run your first session.</p>
+
+<p><img src="https://raw.githubusercontent.com/akaalias/getunblah/main/assets/images/unblah-running-session-red.png" alt="" /></p>
+
+<h3 id="example-zoom-audio-settings">Example: Zoom Audio Settings</h3>
+
+<h2 id="all-set">All set?</h2>
+<ul>
+  <li>Great!</li>
+  <li>Make sure you take a moment for <a href="/v1/get-comfortable">Part 2: How to get comfortable (15 minutes)</a></li>
+</ul>
+:ET

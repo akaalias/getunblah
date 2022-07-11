@@ -8,7 +8,7 @@ topmenu:
 #  url: "contact/"
 
 - title: Download v1.6 for macOS
-  url: "https://github.com/akaalias/getunblah/releases/download/v1.6/Unblah.dmg"
+  url: "https://github.com/akaalias/getunblah/releases/latest/download/Unblah.dmg"
   class: "btn btn-light btn-sm"
   external: true
   subtitle: v1.6 for macOS
@@ -26,6 +26,6 @@ footermenu:
   url: "contact/"
 
 - title: Download Unblah
-  url: "https://github.com/akaalias/getunblah/releases/download/v1.6/Unblah.dmg"
+  url: "https://github.com/akaalias/getunblah/releases/latest/download/Unblah.dmg"
   external: true
   class: "ml-2 btn btn-dark text-white px-3"
