@@ -2,7 +2,7 @@ title: "Unblah"
 email: alexis.rondeau@gmail.com
 timezone: UTC
 baseurl: ""
-logo: 'assets/images/logo.png'
+logo: 'assets/images/unblah-app-icon.png'
 favicon: 'assets/images/favicon.ico'
 author: Alexis Rondeau
 paginate: 30
@@ -18,7 +18,7 @@ kramdown:
 sass:
   sass_dir: _sass
   style: :compressed
-ganalytics: UA-113961478-1
+ganalytics:
 
 # Authors
 #authors:
