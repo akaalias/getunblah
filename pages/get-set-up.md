@@ -4,9 +4,9 @@ title: Getting Set Up
 permalink: "/v1/get-set-up/"
 ---
 
-Hey and welcome to getting you set up!
+Hey and welcome, Alexis here. 
 
-Alexis here. Great to have you, let's jump right in.
+Great to have you, let's jump right in getting you set up.
 
 ## Installation (1 minute)
 If anything, Unblah is just like any other macOS app that you download and install directly from a developer (like me) instead of the App Store.
@@ -45,7 +45,7 @@ Additionally, since it’s your first launch, you should also see the following 
 
 *If you’re concerned about your privacy and the confidentiality of your calls:* Unblah DOES NOT RECORD, SAVE or UPLOAD your audio anywhere. All speech analysis happens live, locally and on the fly. This means, the app only operates real-time on the audio stream coming from your microphone to identify your speech. Every few milliseconds these audio-bytes are discarded.
 
-## Setting Up Your Audio
+## Setting Up Your Audio (2 minutes)
 Here are a few steps you should know about in regards to the audio set up for your calls. None of the steps are really unique to Unblah, but I wanted to make sure you’ve got them covered.
 
 ### Using Headphones
@@ -59,7 +59,9 @@ When your headphones are found, you can start a new session by tapping the Play 
 
 ![](https://raw.githubusercontent.com/akaalias/getunblah/main/assets/images/start-new-session.png)
 
-Yay! You should be able to run your first session. Definitely play around with triggering the app's speech recognition, even if you're not on a reall call yet!
+### You're Set Up – Let's Play!
+
+Yay! You should be able to run your first session. Definitely PLAY around with the app. See how it's listening to you and how you're triggering the app's speech recognition, even if you're not on a reall call yet!
 
 ![](https://raw.githubusercontent.com/akaalias/getunblah/main/assets/images/unblah-running-session-red.png)
 
