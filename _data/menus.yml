@@ -19,6 +19,9 @@ footermenu:
 - title: Home
   url: ""
 
+- title: "Getting Started"
+  url: "v1/getting-started/"
+
 - title: Privacy Policy
   url: "privacy-policy/"
 
