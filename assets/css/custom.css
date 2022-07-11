@@ -39,3 +39,8 @@ body {}
 .offer-item.core {
 
 }
+
+#next-step {
+    margin-top: 20px;
+    padding: 20px;
+}

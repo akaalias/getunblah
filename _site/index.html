@@ -85,7 +85,7 @@
   <section>
     <div class="col-lg-8 mx-auto">
         <div class="centered">
-            <a href="https://github.com/akaalias/getunblah/releases/latest/download/Unblah.dmg" class="btn btn-primary btn-lg cta">
+            <a href="https://github.com/akaalias/getunblah/releases/latest/download/Unblah.dmg" class="btn btn-primary btn-lg cta" onclick="$('#next-step').show(); $('.cta').hide();">
                 <div class="copy">Download Unblah.dmg</div>
                 <div class="subtitle">
                     v1.6 for macOS 12.3+
@@ -93,7 +93,13 @@
             </a>
         </div>
 
-        <br>
+        <div class="centered alert-success" id="next-step" style="display: none;">
+            <h3>Awesome, your download has started!</h3>
+
+            <p>
+                Next up: Make sure you <a href="/v1/getting-started/" class="btn btn-primary">READ THE SET UP GUIDE (2 minutes)</a>
+            </p>
+        </div>
         <br>
 
         <div class="article-post serif-font offer centered">
