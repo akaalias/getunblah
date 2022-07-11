@@ -15,3 +15,27 @@ body {}
 .cta .subtitle {
     font-weight: normal;
 }
+
+.faqs {
+}
+
+.faq {
+    border: 1px solid #ccc;
+    padding: 18px;
+
+}
+
+.faq .question {
+    font-weight: bolder;
+}
+
+.faq .answer {
+}
+
+.offers {
+
+}
+
+.offer-item.core {
+
+}
