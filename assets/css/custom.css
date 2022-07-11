@@ -44,3 +44,8 @@ body {}
     margin-top: 20px;
     padding: 20px;
 }
+
+.offer-box {
+    border: 1px solid #ccc;
+    padding: 20px;
+}
