@@ -4,11 +4,13 @@ title: Getting Set Up
 permalink: "/v1/get-set-up/"
 ---
 
+![](/assets/unblah-app-icon.png)
+
 Hello and welcome!
 
 Alexis here, maker of Unblah with this quick guide on getting started
 
-It has two parts that will set you up for success quickly
+It has two parts that will set you up for success quickly.
 
 First, I’ll show you how to get ready with a 2-minute installation/configuration guide
 
