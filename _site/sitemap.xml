@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/jekyll/tutorial/2018/01/12/tree-of-codes.html</loc>
-<lastmod>2018-01-12T00:00:00+00:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/jekyll/tutorial/2019/01/12/is-intelligence-enough.html</loc>
-<lastmod>2019-01-12T00:00:00+00:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/jekyll/tutorial/2020/01/11/markup-example.html</loc>
-<lastmod>2020-01-11T00:00:00+00:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/jekyll/tutorial/2020/01/12/powerful-things-markdown-editor.html</loc>
-<lastmod>2020-01-12T00:00:00+00:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/jekyll/tutorial/2020/01/12/red-riding.html</loc>
-<lastmod>2020-01-12T00:00:00+00:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/jekyll/tutorial/2020/01/12/we-all-wait-for-summer.html</loc>
-<lastmod>2020-01-12T00:00:00+00:00</lastmod>
-</url>
-<url>
 <loc>http://localhost:4000/v1/get-comfortable/</loc>
 </url>
 <url>

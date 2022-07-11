@@ -4,3 +4,14 @@ Just customize your theme here.
 ================================================== */
 
 body {}
+
+.centered {
+    text-align: center;
+}
+
+.cta .copy {
+    font-size: 1.5em;
+}
+.cta .subtitle {
+    font-weight: normal;
+}

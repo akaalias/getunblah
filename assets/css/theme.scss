@@ -54,12 +54,6 @@ h4, .h4, h5, .h5 {
 a {
     color:inherit;
     text-decoration:none;
-    transition: all .4s;
-    &:hover {
-        text-decoration:none;
-        color:inherit;
-        transition: all .4s;
-    }
 }
 img, video {max-width:100%;}
 
@@ -610,6 +604,4 @@ span.navigation:before {
 }
 
 .hover-opacity:hover {
-    transition: all.3s;
-    opacity:.8;
 }

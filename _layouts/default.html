@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <link rel="icon" href="{{ site.baseurl }}/{{site.favicon}}">
 
-<title>{{ page.title }} | {{site.title}}</title>
+<title>{{site.title}} – {{site.headline}} {% if page.title %} | {{ page.title }} {% endif %}</title>
 
 {% seo %}
 
@@ -14,19 +14,8 @@
 <!-- custom CSS - Remove this if you don't use it or choose to customize the stylesheet with sass-->
 <link href="{{ site.baseurl }}/assets/css/custom.css" rel="stylesheet">
 <!-- custom CSS end-->
-    
-{% if jekyll.environment == "production" %}       
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id={{site.ganalytics}}"></script>
-<script>
-window.dataLayer = window.dataLayer || [];
-function gtag(){dataLayer.push(arguments);}
-gtag('js', new Date());
-gtag('config', '{{site.ganalytics}}');
-</script>
-{% endif %}
-   
-</head>   
+
+</head>
     
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
 <body class="{{ layout }}">
@@ -54,7 +43,9 @@ gtag('config', '{{site.ganalytics}}');
             <ul class="navbar-nav ml-auto font-weight-bold d-flex align-items-center">
               {% for item in site.data.menus.topmenu %}
               <li class="nav-item">
-                <a class="nav-link px-3 {% if item.class %}{{item.class}}{% endif %}" href="{% unless item.external %}{{site.baseurl}}/{% endunless %}{{item.url}}" alt="{{item.title}}">{{item.title}}</a>
+                <a class="nav-link px-3 {% if item.class %}{{item.class}}{% endif %}" href="{% unless item.external %}{{site.baseurl}}/{% endunless %}{{item.url}}" alt="{{item.title}}">
+                  {{item.title}}
+                </a>
               </li>
               {% endfor %}
             </ul>
@@ -67,8 +58,14 @@ gtag('config', '{{site.ganalytics}}');
     
 <!-- Container
 ================================================== -->    
-<main class="container">   
-      {{ content }}  
+<main class="container">
+  {% if page.image %}
+  <div class="text-center mx-auto mb-5">
+    <img class="featured-image text-center mx-auto rounded" src="{{ site.baseurl }}/{{ page.image }}" alt="{{ page.title }}">
+  </div>
+  {% endif %}
+
+  {{ content }}
 </main>
 
 <!-- Footer

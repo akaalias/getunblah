@@ -7,10 +7,11 @@ topmenu:
 #- title: Contact
 #  url: "contact/"
 
-- title: Download Unblah
-  url: https://github.com
-  class: "ml-2 btn btn-dark text-white px-3"
+- title: Download v1.6 for macOS
+  url: "https://github.com/akaalias/getunblah/releases/download/v1.6/Unblah.dmg"
+  class: "btn btn-light btn-sm"
   external: true
+  subtitle: v1.6 for macOS
 
 # Footer Menu
 footermenu:
@@ -24,6 +25,7 @@ footermenu:
 - title: Contact
   url: "contact/"
 
-- title: Download
-  url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/  
+- title: Download Unblah
+  url: "https://github.com/akaalias/getunblah/releases/download/v1.6/Unblah.dmg"
   external: true
+  class: "ml-2 btn btn-dark text-white px-3"

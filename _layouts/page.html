@@ -10,7 +10,6 @@ layout: default
 <!-- End Featured Image -->
 
 <div class="col-lg-8 mx-auto">
-
   <div class="mainheading">
     <h1 class="posttitle">{{ page.title }}</h1>
   </div>
@@ -18,11 +17,4 @@ layout: default
   <div class="article-post serif-font">
     {{content}}
   </div>
-
-  {% if page.comments == true %}
-  <div id="comments">             
-      {% include disqus.html %} 
-  </div>
-  {% endif %}
-
 </div>
