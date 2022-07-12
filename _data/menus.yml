@@ -28,6 +28,11 @@ footermenu:
   url: "https://publish.obsidian.md/alexisrondeau"
   external: true
 
+- title: Questions? Let's talk!
+  url: https://calendly.com/alexis-rondeau/lets-talk
+  external: true
+  class: "ml-2 btn btn-sm btn-success"
+
 - title: Download Unblah
   url: "#offer"
   class: "ml-2 btn btn-sm btn-dark text-white px-3"
