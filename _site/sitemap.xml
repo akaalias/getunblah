@@ -4,6 +4,9 @@
 <loc>http://localhost:4000/v1/get-comfortable/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/v1/get-installed/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/v1/get-set-up/</loc>
 </url>
 <url>
