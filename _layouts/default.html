@@ -58,13 +58,7 @@
     
 <!-- Container
 ================================================== -->    
-<main class="container">
-  {% if page.image %}
-  <div class="text-center mx-auto mb-5">
-    <img class="featured-image text-center mx-auto rounded" src="{{ site.baseurl }}/{{ page.image }}" alt="{{ page.title }}">
-  </div>
-  {% endif %}
-
+<main class="container offset-container">
   {{ content }}
 </main>
 
@@ -74,21 +68,21 @@
   <ul class="p-0 mb-1 small">
     {% for item in site.data.menus.footermenu %}
     <li>
-      <a href="{% unless item.external %}{{site.baseurl}}/{% endunless %}{{item.url}}" alt="{{item.title}}">{{item.title}}</a>
+      <a href="{% unless item.external %}{{site.baseurl}}/{% endunless %}{{item.url}}" alt="{{item.title}}" class="{{item.class}}">{{item.title}}</a>
     </li>
     {% endfor %}
     </ul>
     <div class="copyright small">
-       Copyright © {{site.title}}. All rights reserved.
+       Copyright © Alexis Rondeau – All rights reserved.
     </div>
 </footer>
 
 <!-- JavaScript
 ================================================== -->    
 <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>   
-<script src="{{ site.baseurl }}/assets/js/bootstrap.min.js"></script>   
-<script src="{{ site.baseurl }}/assets/js/theme.js"></script>    
-    
+<script src="{{ site.baseurl }}/assets/js/bootstrap.min.js"></script>
+<script src="{{ site.baseurl }}/assets/js/theme.js"></script>
+
 </body>
     
 </html>

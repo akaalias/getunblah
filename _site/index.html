@@ -60,7 +60,7 @@
             <ul class="navbar-nav ml-auto font-weight-bold d-flex align-items-center">
               
               <li class="nav-item">
-                <a class="nav-link px-3 btn btn-light btn-sm" href="https://github.com/akaalias/getunblah/releases/latest/download/Unblah.dmg" alt="Download v1.6 for macOS">
+                <a class="nav-link px-3 btn btn-light btn-sm" href="/#offer" alt="Download v1.6 for macOS">
                   Download v1.6 for macOS
                 </a>
               </li>
@@ -75,80 +75,88 @@
     
 <!-- Container
 ================================================== -->    
-<main class="container">
-  
-  <div class="text-center mx-auto mb-5">
-    <img class="featured-image text-center mx-auto rounded" src="/assets/images/desktop-zoom.png" alt="">
-  </div>
-  
-
-  <section class="">
+<main class="container offset-container">
+  <section id="demo">
     <div class="col-lg-12 mx-auto centered">
-        <div class="">
-            <h1 class="">
-                Learn To Say More While Talking Less
-            </h1>
-            <p class="article-post serif-font">
-                Unblah is a private "meeting-buddy" that catches you <i>before</i> you talk too much in calls and, with some practice, helps you <i>develop</i> a better sense for your timing
+        <img class="featured-image text-center mx-auto rounded" src="/assets/images/desktop-zoom.png" alt="">
+
+        <p class="alert-danger tagline">
+            For those who get nervous and then talk too much during video calls:
+        </p>
+        <h1 class="headline">
+            Talk Less, Say More
+        </h1>
+        <p class="subheadline">
+            Unblah is a meeting-buddy who keeps track of how long you're speaking, catches you before you talk too much and helps you develop a better sense of timing (with some practice.)
+        </p>
+    </div>
+</section>
+
+<section id="offer">
+    <div class="col-lg-12 mx-auto centered">
+        <div class="article-post serif-font offer">
+            <p>
+                <img src="/assets/images/unblah-running-session-red.png" style="width: 350px;"/>
             </p>
+
+            <div class="offer-list">
+                <div class="offer-item">
+                    ✔ Works great with Zoom, Teams, WebEx, Hangouts, even phone calls!
+                </div>
+                <div class="offer-item core">
+                    ✔ Gentle, visible "red-green traffic-light" live notification
+                </div>
+                <div class="offer-item core">
+                    ✔ Hands-free, speech-triggered countdown timer
+                </div>
+                <div class="offer-item core">
+                    ✔ Live timeline for in-meeting adjustments
+                </div>
+                <div class="offer-item">
+                    ✔ Self-contained, works without internet
+                </div>
+                <div class="offer-item core">
+                    ✔ Native, bloat-free macOS application
+                </div>
+                <div class="offer-item core">
+                    ➕ Getting Set Up Guide (1 minutes)
+                </div>
+                <div class="offer-item core">
+                    ➕ Installation Guide (1 minutes)
+                </div>
+                <div class="offer-item core">
+                    ➕ Getting Comfortable Guide
+                </div>
+                <!--
+                <div class="offer-item">
+                    ➕ No analytics/event tracking
+                </div>
+                <div class="offer-item">
+                    ➕ No hidden in-app purchases
+                </div>
+                <div class="offer-item">
+                    ➕ No sign-up required
+                </div>
+                -->
+            </div>
+        </div>
+
+        <div class="cta-container" id="main-cta">
+            <a href="https://github.com/akaalias/getunblah/releases/latest/download/Unblah.dmg" class="btn btn-primary btn-lg cta" onclick="$('#next-step').show(); $('.cta').hide();">
+                <div class="copy">Download Unblah.dmg</div>
+                <div class="subtitle">
+                    v1.6 for macOS 12.3+
+                </div>
+            </a>
+        </div>
+
+        <div class="centered alert-success" id="next-step" style="display: none;">
+            <h4 class="text-success">Awesome, your download has started!</h4>
             <br>
-            <div>
-                <a href="https://github.com/akaalias/getunblah/releases/latest/download/Unblah.dmg" class="btn btn-primary btn-lg cta" onclick="$('#next-step').show(); $('.cta').hide();">
-                    <div class="copy">Download Unblah.dmg</div>
-                    <div class="subtitle">
-                        v1.6 for macOS 12.3+
-                    </div>
-                </a>
-            </div>
-
-            <div class="centered alert-success" id="next-step" style="display: ;">
-                <h4 class="text-success">Awesome, your download has started!</h4>
-                <br>
-                <p>
-                    As <b>your next step</b>, make sure you <br>
-                    <a href="/v1/get-installed/" class="btn btn-primary">READ THE INSTALLATION GUIDE (1 minute)</a>
-                </p>
-            </div>
-
+            <p>
+                As <b>your next step</b>, make sure you <a href="/v1/get-installed/" class="btn btn-primary">READ THE INSTALLATION GUIDE (1 minute)</a>
+            </p>
         </div>
-
-        <div class="article-post serif-font offer centered">
-            <h4>Here's what you get:</h4>
-            <div class="offer-item core">
-                ✔️ A native, bloat-free macOS application
-            </div>
-            <div class="offer-item core">
-                ✔️ Speech-triggered countdown timer
-            </div>
-            <div class="offer-item core">
-                ✔️ ️Gentle, increasing alert after ~30 seconds airtime
-            </div>
-            <div class="offer-item core">
-                ✔️ Live session timeline for better attention-management
-            </div>
-            <div class="offer-item core">
-                ✔️ Getting Set Up Guide (2 minutes)
-            </div>
-            <div class="offer-item core">
-                ✔️ Getting Comfortable Guide (Optional, 15 minutes)
-            </div>
-            <div class="offer-item">
-                ✔️ Works with Zoom, Teams, WebEx, Hangouts
-            </div>
-            <div class="offer-item">
-                ✔️ Self-contained, works even without internet
-            </div>
-            <div class="offer-item">
-                ✔️ No sign-up required
-            </div>
-            <div class="offer-item">
-                ✔️ No analytics or event tracking
-            </div>
-            <div class="offer-item">
-                ✔️ No hidden in-app purchases
-            </div>
-        </div>
-
     </div>
 </section>
 
@@ -206,37 +214,37 @@
   <ul class="p-0 mb-1 small">
     
     <li>
-      <a href="/" alt="Home">Home</a>
+      <a href="/" alt="Home" class="">Home</a>
     </li>
     
     <li>
-      <a href="/v1/getting-started/" alt="Getting Started">Getting Started</a>
+      <a href="/v1/getting-started/" alt="Getting Started Guide" class="">Getting Started Guide</a>
     </li>
     
     <li>
-      <a href="/privacy-policy/" alt="Privacy Policy">Privacy Policy</a>
+      <a href="/privacy-policy/" alt="Privacy Policy" class="">Privacy Policy</a>
     </li>
     
     <li>
-      <a href="/contact/" alt="Contact">Contact</a>
+      <a href="https://publish.obsidian.md/alexisrondeau" alt="About Me" class="">About Me</a>
     </li>
     
     <li>
-      <a href="https://github.com/akaalias/getunblah/releases/latest/download/Unblah.dmg" alt="Download Unblah">Download Unblah</a>
+      <a href="/#offer" alt="Download Unblah" class="ml-2 btn btn-sm btn-dark text-white px-3">Download Unblah</a>
     </li>
     
     </ul>
     <div class="copyright small">
-       Copyright © Unblah. All rights reserved.
+       Copyright © Alexis Rondeau – All rights reserved.
     </div>
 </footer>
 
 <!-- JavaScript
 ================================================== -->    
 <script src="/assets/js/jquery.min.js"></script>   
-<script src="/assets/js/bootstrap.min.js"></script>   
-<script src="/assets/js/theme.js"></script>    
-    
+<script src="/assets/js/bootstrap.min.js"></script>
+<script src="/assets/js/theme.js"></script>
+
 </body>
     
 </html>

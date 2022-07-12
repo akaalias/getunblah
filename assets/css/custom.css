@@ -1,16 +1,57 @@
-/* 
-Don't want to use sass and simply modify the stylesheet in the old css fashion? 
-Just customize your theme here.
-================================================== */
-
 body {}
+
+.offset-container {
+}
 
 .centered {
     text-align: center;
 }
 
+.tagline {
+    text-transform: uppercase;
+}
+
+#demo {
+}
+
+.headline {
+    font-size: 2.9em;
+    line-height: 2em;
+}
+
+.subheadline {
+    font-size: 1.6em;
+}
+.meeting-buddy {
+    background-color: #cbefff;
+}
+.underline {
+    text-decoration: underline;
+}
+
+.highlight {
+    font-weight: normal;
+    background-color: #f8eabe;
+}
+
+#offer {
+    margin-top: 50px;
+}
+
+.offer-list {
+    margin-top: 40px;
+}
+
+.offer-item {
+    margin: 10px;
+}
+
+.cta-container {
+    margin-top: 20px;
+}
+
 .cta .copy {
-    font-size: 1.5em;
+    font-size: 1.2em;
 }
 .cta .subtitle {
     font-weight: normal;

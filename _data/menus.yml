@@ -8,9 +8,8 @@ topmenu:
 #  url: "contact/"
 
 - title: Download v1.6 for macOS
-  url: "https://github.com/akaalias/getunblah/releases/latest/download/Unblah.dmg"
+  url: "#offer"
   class: "btn btn-light btn-sm"
-  external: true
   subtitle: v1.6 for macOS
 
 # Footer Menu
@@ -19,16 +18,16 @@ footermenu:
 - title: Home
   url: ""
 
-- title: "Getting Started"
+- title: "Getting Started Guide"
   url: "v1/getting-started/"
 
 - title: Privacy Policy
   url: "privacy-policy/"
 
-- title: Contact
-  url: "contact/"
+- title: About Me
+  url: "https://publish.obsidian.md/alexisrondeau"
+  external: true
 
 - title: Download Unblah
-  url: "https://github.com/akaalias/getunblah/releases/latest/download/Unblah.dmg"
-  external: true
-  class: "ml-2 btn btn-dark text-white px-3"
+  url: "#offer"
+  class: "ml-2 btn btn-sm btn-dark text-white px-3"
