@@ -23,22 +23,29 @@ When your headphones are found, you can start a new session by tapping the Play 
 
 ![](https://raw.githubusercontent.com/akaalias/getunblah/main/assets/images/start-new-session.png)
 
-Yay! You should be able to run your first session. 
+Yay! You are ready to run your first session. 
 
 **Definitely PLAY around with the app.** 
 
-See how it's listening to you and how you're triggering the app's speech recognition, even if you're not on a reall call yet! 
+See how it's listening to you. Explore with how you're triggering the app's speech recognition. 
+
+Check out how loud do you have to talk to trigger the countdown? Are you close enough? 
+
+Even if you're not on a reall call yet, just getting used to the dynamics is important
 
 ![](https://raw.githubusercontent.com/akaalias/getunblah/main/assets/images/unblah-running-session-red.png)
 
 ### Preparing a Video Conferencing Call
 
-You can use Unblah in tandem with most video conference call services, like MS Teams, Zoom, Google Hangouts, WebEx etc.
+You can use Unblah in tandem with pretty much all conference call services, like MS Teams, Zoom, Google Hangouts, WebEx etc. It also works offline, so you can have it running alongside a phone call, too! 
 
 The basic settings are always the same, but you may have to custom-select your audio input and output as follows:
 
-1. Your audio input (your mic) can be whatever you usually use
-2. Your audio output (your speakers) MUST be your headphones (so that the app doesn't trigger when someone else is talking)
+1. Your audio output (your speakers) MUST be your headphones (so that the app doesn't trigger when someone else is talking)
+2. Your audio input (your mic) can be whatever you usually use
+
+![Set speakers to headphones](https://raw.githubusercontent.com/akaalias/getunblah/main/assets/images/unblah-zoom-settings-setup.png)
+
 
 ## Next Up
 - [Getting Comfortable Guide (Optional, 15 minutes)](/v1/get-comfortable)
