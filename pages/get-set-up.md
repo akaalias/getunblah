@@ -44,6 +44,7 @@ The basic settings are always the same, but you may have to custom-select your a
 1. Your audio output (your speakers) MUST be your headphones (so that the app doesn't trigger when someone else is talking)
 2. Your audio input (your mic) can be whatever you usually use
 
+As an example, here are the audio settings for Zoom. The principle is the same for other services.
 ![Set speakers to headphones](https://raw.githubusercontent.com/akaalias/getunblah/main/assets/images/unblah-zoom-settings-setup.png)
 
 
