@@ -19,6 +19,9 @@ body {}
 }
 
 .subheadline {
+    margin-top: 20px;
+    margin-bottom: 20px;
+
     font-size: 1.4em;
 }
 .meeting-buddy {

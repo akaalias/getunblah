@@ -3,23 +3,26 @@ layout: default
 image: assets/images/desktop-zoom.png
 ---
 <section id="demo">
-    <div class="col-lg-8 mx-auto centered">
+    <div class="col-lg-12 mx-auto centered">
         <h1 class="headline">
-            {{site.tagline}}
+            For those (like myself) who<br>talk too much when they get nervous in meetings
         </h1>
         <p class="subheadline">
-            Unblah is a meeting-buddy who... <br><b>keeps track</b> of how long you're speaking, <br><b>catches you</b> before you talk too much and <br><b>helps you develop</b> a better sense of timing.
+            Unblah is a "meeting-buddy"-app that... <br><b>Keeps track</b> of how long you're speaking, <br><b>Catches you</b> before you talk too much <br><b>Helps you develop</b> a better sense of timing
         </p>
 
-        Watch the 2-minute demo video here:
+        <div class="alert-warning">
+            Watch the 2-minute demo video here:
         <script src="https://fast.wistia.com/embed/medias/1ag85zb2oi.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script><div class="wistia_responsive_padding" style="padding:62.5% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><div class="wistia_embed wistia_async_1ag85zb2oi videoFoam=true" style="height:100%;position:relative;width:100%"><div class="wistia_swatch" style="height:100%;left:0;opacity:0;overflow:hidden;position:absolute;top:0;transition:opacity 200ms;width:100%;"><img src="https://fast.wistia.com/embed/medias/1ag85zb2oi/swatch" style="filter:blur(5px);height:100%;object-fit:contain;width:100%;" alt="" aria-hidden="true" onload="this.parentNode.style.opacity=1;" /></div></div></div></div>
+        </div>
+
     </div>
 </section>
 
 <section id="offer">
     <div class="col-lg-12 mx-auto centered">
         <div class="article-post serif-font offer">
-            <h2>Features</h2>
+            <h2>Unblah Features</h2>
             <p>
                 <img src="/assets/images/unblah-running-session-red.png" style="width: 350px;"/>
             </p>
@@ -68,7 +71,10 @@ image: assets/images/desktop-zoom.png
 
         <div class="cta-container" id="main-cta">
             <a href="{{site.data.urls.download_url}}" class="btn btn-primary btn-lg cta" onclick="$('#next-step').show(); $('.cta').hide();">
-                <div class="copy">Download Unblah.dmg</div>
+                <div class="copy">
+                    <img src="/assets/images/unblah-app-icon.png" style="width: 32px; height: 32px; position: relative; top: -3px"/>
+                    Download Unblah.dmg
+                </div>
                 <div class="subtitle">
                     v1.6 for macOS 12.3+
                 </div>
@@ -98,7 +104,7 @@ image: assets/images/desktop-zoom.png
             <div class="faq">
                 <div class="question">Does this app record or store my audio?</div>
                 <div class="answer">
-                    Unblah does not record, story or upload your audio. All speech classification happens live, locally and on the fly. This means, the app only operates real-time on the audio stream coming from your microphone to identify your speech. Every few milliseconds these audio-bytes are discarded. In fact, the app only operates in terms of probabilities and has no concept of "words."
+                    Unblah does not record or store your audio. All speech classification happens live and on the fly. This means, the app only operates real-time on the audio stream coming from your microphone to identify your speech. Every few milliseconds these audio-bytes are discarded.
                 </div>
             </div>
 
@@ -108,8 +114,15 @@ image: assets/images/desktop-zoom.png
             </div>
 
             <div class="faq">
-                <div class="question">Do I need to sign-up before I can try?</div>
-                <div class="answer">Nope, no email-required-for-download and no sign-up required after launch. It's completely  self-contained and works right out the box.</div>
+                <div class="question">Can this app "understand" (or even <i>judge</i>) what I'm saying?</div>
+                <div class="answer">
+                    No. The app has no concept of "words" or "sentences" or "ideas." It only operates in terms of probabilities of <i>"Is someone talking?"</i>
+                </div>
+            </div>
+
+            <div class="faq">
+                <div class="question">Do I need to sign-up before I can give it a spin?</div>
+                <div class="answer">Nope, there's no sign-up required. Unblah is completely self-contained and works right out the box.</div>
             </div>
 
             <div class="faq">
@@ -123,8 +136,17 @@ image: assets/images/desktop-zoom.png
             </div>
 
             <div class="faq">
-                <div class="question">Is this yet another “nAtIvE” Electron app?</div>
-                <div class="answer">Nope, it’s written 100% in Swift and Objective-C.</div>
+                <div class="question">If it's soooo cool, then WHY ON EARTH are you giving it away?</div>
+                <div class="answer">
+                    It's a personal project that I built for myself. It solves a real pain-point I noticed in my life.
+                    If you know the struggle it may help you, too.
+                    Giving it to you is an offer <a href="https://calendly.com/alexis-rondeau/lets-talk" target="_blank">to start a conversation</a>.
+                </div>
+            </div>
+
+            <div class="faq">
+                <div class="question">What is the app made of?</div>
+                <div class="answer">It’s written 100% in Swift and Objective-C.</div>
             </div>
         </div>
     </div>

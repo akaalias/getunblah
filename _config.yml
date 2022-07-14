@@ -5,7 +5,6 @@ description: "Unblah is a meeting-buddy who keeps track of how long you're speak
 email: alexis.rondeau@gmail.com
 timezone: UTC
 baseurl: ""
-logo: 'assets/images/unblah-app-icon.png'
 favicon: 'assets/images/favicon.ico'
 author: Alexis Rondeau
 paginate: 30
