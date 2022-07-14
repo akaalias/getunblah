@@ -86,6 +86,12 @@ body {}
 #next-step {
     margin-top: 30px;
     padding: 30px;
+    border-radius: 10px;
+}
+
+.video-container {
+    padding: 10px;
+    border-radius: 10px;
 }
 
 .offer-box {
