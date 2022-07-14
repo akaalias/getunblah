@@ -7,7 +7,7 @@ topmenu:
 #- title: Contact
 #  url: "contact/"
 
-- title: Download v1.6 for macOS
+- title: "<img src='/assets/images/unblah-app-icon.png' class='app-icon-small' /> Download Unblah (macOS)"
   url: "#offer"
   class: "btn btn-light btn-sm"
   subtitle: v1.6 for macOS
