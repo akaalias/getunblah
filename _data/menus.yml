@@ -21,12 +21,16 @@ footermenu:
 - title: "Getting Started Guide"
   url: "v1/getting-started/"
 
-- title: Privacy Policy
-  url: "privacy-policy/"
+- title: "Discussion on HN"
+  url: "https://news.ycombinator.com/item?id=32095592"
+  external: true
 
 - title: About Me
   url: "https://publish.obsidian.md/alexisrondeau"
   external: true
+
+- title: Privacy Policy
+  url: "privacy-policy/"
 
 - title: Questions? Let's talk!
   url: https://calendly.com/alexis-rondeau/lets-talk
