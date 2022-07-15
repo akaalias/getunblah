@@ -1,5 +1,10 @@
-# Affiliates - Free Jekyll Theme
+# Unblah – For those (like myself) who talk too much when they get nervous in meetings
 
-[Live Demo](https://wowthemesnet.github.io/affiliates-jekyll-theme/) | [Docs & Download](https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/) |  [Buy me a coffee](https://www.wowthemes.net/donate/)
+Unblah is a little "meeting-buddy"-app that helps...
 
-![jekyll-affiliates-theme](https://bootstrapstarter.com/assets/img/themes/affiliates-jekyll.jpg)
+- Keep track of how long you've been speaking,
+- Catch yourself before you talk too much
+- Develop a better sense of timing
+
+Check it out at https://unblah.me
+
