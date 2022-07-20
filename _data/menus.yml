@@ -10,7 +10,7 @@ topmenu:
 - title: "Download Unblah (macOS)"
   url: "#offer"
   class: "btn btn-light btn-sm"
-  subtitle: v1.6 for macOS
+  subtitle: v1.7 for macOS
 
 # Footer Menu
 footermenu:
