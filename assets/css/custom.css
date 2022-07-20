@@ -127,3 +127,9 @@ body {}
     width: 100%;
     height: 100%;
 }
+
+sup.new {
+    color: red;
+    font-family: sans-serif;
+    font-weight: bold;
+}
