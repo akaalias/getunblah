@@ -1,20 +1,14 @@
+version: "v1.8"
+
 # Top Menu
 topmenu:
-
-#- title: About
-#  url: "about/"
-#
-#- title: Contact
-#  url: "contact/"
-
 - title: "Download Unblah (macOS)"
   url: "#offer"
   class: "btn btn-light btn-sm"
-  subtitle: v1.7 for macOS
+  subtitle: v1.8 for macOS
 
 # Footer Menu
 footermenu:
-
 - title: Home
   url: ""
 
